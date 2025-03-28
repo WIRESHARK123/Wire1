@@ -1,4 +1,7 @@
 # Wire1
+tcp scoket
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
